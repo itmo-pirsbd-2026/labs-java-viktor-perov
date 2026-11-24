@@ -1,0 +1,1 @@
+.\gradlew.bat jmh --rerun-tasks | Tee-Object -FilePath build\results\jmh\full-run-v0.txt
